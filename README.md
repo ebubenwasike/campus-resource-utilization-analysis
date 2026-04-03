@@ -1,7 +1,7 @@
 # campus-resource-utilization-analysis
 ## Idea
 
-This project analyzes sfu's burnaby campus facility usage patterns to identify peak demand periods and underutilized resources in the library, SUB, gym and cafeteria.
+This dashboard analyzes sfu's burnaby campus facility usage patterns to identify peak demand periods and underutilized resources in the library, SUB, gym and cafeteria.
 The goal is to support data driven decision-making by students for efficiency.
 
 (synthetically generated dataset), including time based behavior and location specific demand.
